@@ -38,6 +38,20 @@ Jetzt ein Jahr später bin ich Mitglied des SLT-Observatory, sowie Betreuer der 
 
 Astrobin: [Moritz Mayer auf Astrobin](https://www.astrobin.com/users/MoMa/)
 
+## Nico Trost
+Ich heisse Nico Trost, und arbeite als Mathematiker in der Softwareentwicklung (Bereich Halbleiter).
+
+Mit der Astrofotografie habe ich während dem Studium angefangen, das müsste ca. 2006 gewesen sein.
+
+Angefangen mit 8" GSO und Canon 1000D, über Volksapo, gekühlte CCD usw. bin ich heute bei einem FSQ angekommen.
+
+Vor zwei Jahren kam dann noch eine Rolldachhütte im Garten dazu. Leider sind die Bedingungen hier, ich wohne in der Rheinebene, eher suboptimal. Es meist bewölkt, und richtig dunkel sowieso nicht. 
+
+Da ich schon länger mit dem Gedanken spiele, ein Rig in Spanien zu installieren, kam die Gelegenheit hier mitzumachen gerade richtig!
+
+Astrobin: [Nico Trost auf Astrobin](https://www.astrobin.com/users/nico58/)
+
+
 ## Rolf Schwesig
 
 Ich bin Diplom-Physiker, arbeite als Softwareentwickler südlich von München und wohne direkt am Alpenrand südlich von Rosenheim.

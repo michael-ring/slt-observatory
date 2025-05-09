@@ -1,7 +1,7 @@
 Title: Spielregeln
 Date: 2024-12-16 14:25
 Author: Michael Ring
-SortOrder: 009
+SortOrder: 998
 
 Und hier noch ein paar Informationen und Regeln für das Teleskop:
 
