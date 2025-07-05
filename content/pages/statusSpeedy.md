@@ -1,8 +1,8 @@
 Title: Status Speedy
 Date: 2024-07-12 14:25
 Author: Michael Ring
-SortOrder: 008
-## Clear Sky Chart
+SortOrder: 204
+## Clear Sky Chart Starfront Observatories
 <p style="width:1024px;">
 <a href=https://www.cleardarksky.com/c/StrfrntObsTXkey.html>
 <img src="https://www.cleardarksky.com/c/StrfrntObsTXcsk.gif?c=2012437"></a>
@@ -25,8 +25,8 @@ SortOrder: 008
       <td data-src="https://slt-observatory.space/images/speedy-images/image.jpg">
         <img src="https://slt-observatory.space/images/speedy-images/image.jpg"/>
       </td>
-      <td data-src="https://zyssufjepmbhqznfuwcw.supabase.co/storage/v1/object/public/status-assets-public/building-0005/allsky/images/image.jpg">
-        <img src="https://zyssufjepmbhqznfuwcw.supabase.co/storage/v1/object/public/status-assets-public/building-0005/allsky/images/image.jpg"/>
+      <td data-src="https://zyssufjepmbhqznfuwcw.supabase.co/storage/v1/object/public/status-assets-public/building-0008/allsky/images/image.jpg">
+        <img src="https://zyssufjepmbhqznfuwcw.supabase.co/storage/v1/object/public/status-assets-public/building-0008/allsky/images/image.jpg"/>
       </td>
     </tr>
   </tbody>
@@ -36,7 +36,7 @@ SortOrder: 008
     <tr>
       <th width="33%">NOAA CloudCoverage</th>
       <th width="33%">NOAA Radar</th>
-      <th width="33%"></th>
+      <th width="33%">AllSky</th>
     <tr>
   </thead>
   <tbody>
@@ -47,8 +47,8 @@ SortOrder: 008
       <td data-src="https://radar.weather.gov/ridge/standard/KSJT_loop.gif">
         <img src="https://radar.weather.gov/ridge/standard/KSJT_loop.gif"/>
       </td>
-      <td data-src="https://slt-observatory.space/images/vst-images/allsky.webp">
-        <img src="https://slt-observatory.space/images/vst-images/allsky-thumb.webp"/>
+      <td data-src="https://slt-observatory.space/images/starfront-allsky/allsky.webp">
+        <img src="https://slt-observatory.space/images/starfront-allsky/allsky-thumb.webp"/>
       </td>
     </tr>
   </tbody>
